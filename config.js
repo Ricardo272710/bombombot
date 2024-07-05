@@ -13,7 +13,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["593979133620", 'Spider 𝗕𝗼𝘁 🐉', true], //𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗼𝘁 🐉
+["593979133620", 'BOMBOM 𝗕𝗼𝘁 🐉', true], //𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗼𝘁 🐉
 ["50764206082"]]
 
 global.mods = []
@@ -103,8 +103,8 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["593979133620", 'Spider 𝗕𝗼𝘁 🐉', 1], 
-["50764206082", '  Spider 𝗕𝗼𝘁 🐉', 1]]
+["593979133620", '𝘽𝙊𝙈𝘽𝙊𝙉 𝘽𝙊𝙏 🐉', 1], 
+["50764206082", '  𝘽𝙊𝙈𝘽𝙊𝙉 𝘽𝙊𝙏 🐉', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -112,8 +112,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "Spider 𝗕𝗼𝘁 🐉"
-global.author = "Spider 𝗕𝗼𝘁 🐉"
+global.packname = "𝘽𝙊𝙈𝘽𝙊𝙉 𝘽𝙊𝙏 🐉"
+global.author = "𝘽𝙊𝙈𝘽𝙊𝙉 𝘽𝙊𝙏 🐉"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > CUENTAS E INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -121,7 +121,7 @@ global.author = "Spider 𝗕𝗼𝘁 🐉"
 // [EN] > ACCOUNTS AND BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
-global.gt = "Spider 𝗕𝗼𝘁 🐉"
+global.gt = 𝘽𝙊𝙈𝘽𝙊𝙉 𝘽𝙊𝙏 🐉"
 
 global.yt = "https://www.instagram.com/proyecto_r.a_"
 global.yt2 = "https://www.instagram.com/proyecto_r.a_"
